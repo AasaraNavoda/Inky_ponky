@@ -1,5 +1,3 @@
-// V.Prashoharan
-// ITBIN 2211 - 0264
 
 public class Inkey{
 	//create a constructor
